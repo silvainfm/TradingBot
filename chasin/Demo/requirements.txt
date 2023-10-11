@@ -1,6 +1,0 @@
-pandas==1.4.2
-streamlit==1.9.2
-streamlit_authenticator==0.1.4
-openpyxl==3.0.9
-click<=8.0.4
-docxtpl==0.16.0
